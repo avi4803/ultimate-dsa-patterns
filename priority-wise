@@ -1,0 +1,229 @@
+# DSA Interview Preparation — Reordered by Interview Priority 🎯
+
+## 🥇 Tier 1 — Must-master
+
+> Asked constantly and foundational for most technical interviews.
+
+### 01. Arrays & Hashing
+- Frequency / Hash Map
+- Subarrays / Subsequences
+- In-place Array Techniques
+- Matrix Manipulation
+- Coordinate Compression
+
+### 02. Two Pointers & Sliding Window
+- Two Pointers
+- Fast & Slow Pointers
+- Fixed Window
+- Variable Window
+- Frequency-based Window
+
+### 06. Stack, Queue & Deque
+- Stack
+- Monotonic Stack
+- Queue
+- Monotonic Queue
+- Deque
+- Expression / Parentheses
+
+### 11. Binary Tree
+- DFS
+- BFS / Level Order
+- Tree Traversals
+- Path Problems
+- LCA
+- Tree Construction
+- Tree DP
+
+### 14. Graphs
+- Graph Representation
+- DFS / BFS
+- Grid DFS / BFS
+- Multi-Source BFS
+- Connected Components
+- Cycle Detection
+- Bipartite Graph
+- Topological Sort
+- DSU / Union Find
+
+### 16. Dynamic Programming
+- 1D DP
+- 2D / Grid DP
+- Knapsack
+- Subset / Partition DP
+- LIS / LCS
+- String DP
+- Interval DP
+- Tree DP
+- Bitmask DP
+- Digit DP
+
+### 03. Binary Search
+- Classic Binary Search
+- Lower / Upper Bound
+- First / Last Occurrence
+- Rotated Array
+- Binary Search on Answer
+
+### 07. Linked List
+- Reversal
+- Partial Reversal
+- Fast / Slow
+- Cycle Detection
+- Merge
+- Intersection
+- Random Pointer
+
+---
+
+## 🥈 Tier 2 — Very Common, High ROI
+
+### 10. Recursion & Backtracking
+- Basic Recursion
+- Subsets
+- Permutations
+- Combinations
+- Combination Sum
+- Constraint Problems
+- Grid Backtracking
+
+### 15. Greedy
+- Greedy + Sorting
+- Greedy + Heap
+- Interval Greedy
+- Scheduling
+- Reachability
+- Exchange / Choice-based Greedy
+
+### 09. Heap / Priority Queue
+- Min / Max Heap
+- Top K
+- Two Heaps
+- K-Way Merge
+- Heap + Greedy
+
+### 05. Prefix Sum & Difference Array
+- 1D Prefix Sum
+- 2D Prefix Sum
+- Difference Array
+- Range Queries
+
+### 18. Strings & String Algorithms
+- Palindrome
+- Anagram
+- Frequency
+- String Matching
+- KMP
+- Z Algorithm
+- Rolling Hash
+
+### 08. Intervals & Sweep Line
+- Merge Intervals
+- Insert Interval
+- Overlapping Intervals
+- Interval Scheduling
+- Sweep Line
+
+### 04. Sorting & Partitioning
+- Merge Sort
+- Quick Sort
+- Quickselect
+- Cyclic Sort
+- Counting / Radix Sort
+- 2-Way Partition
+- 3-Way Partition / DNF
+- Stable Partition
+- Inversion Counting
+
+### 12. Binary Search Tree (BST)
+- Search / Insert / Delete
+- Validation
+- Kth Smallest / Largest
+- LCA
+- Predecessor / Successor
+
+---
+
+## 🥉 Tier 3 — Common at Mid/Senior Level or Specific Companies
+
+### 17. Bit Manipulation & Bitmasking
+- XOR
+- Bit Operations
+- Bit Tricks
+- Bit Masks
+- Bitmask Enumeration
+
+### 13. Trie
+- Prefix Search
+- Word Search
+- Autocomplete
+- Trie + Backtracking
+- Bitwise Trie
+
+### 19. Math & Number Theory
+- GCD / LCM
+- Prime / Sieve
+- Modular Arithmetic
+- Combinatorics
+- Fast Power
+- Probability
+- Geometry
+
+### 23. Miscellaneous / Special Techniques
+- Simulation
+- Design / Data Structure Implementation
+- Game Theory
+- Parsing / Implementation
+- State Machines
+- Special Mathematical Tricks
+- Problems that don't fit elsewhere
+
+---
+
+## 🏆 Tier 4 — Senior/Staff, Infra-heavy, or Specialized Roles
+
+### 21. Advanced Graph Algorithms
+- Dijkstra
+- Bellman-Ford
+- Floyd-Warshall
+- 0-1 BFS
+- MST
+- Kruskal
+- Prim
+- Binary Lifting
+
+### 20. Advanced Data Structures
+- Fenwick Tree / BIT
+- Segment Tree
+- Lazy Propagation
+- Sparse Table
+- Ordered Set / Multiset
+
+---
+
+## 🎯 Tier 5 — Rare in Interviews, Mostly Contest/Niche
+
+### 22. Advanced Techniques
+- Divide & Conquer
+- Meet in the Middle
+- Sweep Line Extensions
+- Randomized Algorithms
+- Reservoir Sampling
+- Contribution Technique
+- Offline Queries
+
+---
+
+## 💡 Practical Guidance
+
+**Tier 1 + Tier 2** alone cover the overwhelming majority of standard tech interviews, including most FAANG phone screens and onsites.
+
+**Tier 3** shows up more at companies known for asking trickier questions or for senior roles.
+
+**Tiers 4–5** are mostly relevant for:
+- Infra/systems-heavy roles
+- Competitive programming
+- Quant/HFT firms
+- Specialized roles
+
+> **Recommendation:** Don't burn early preparation time on Tiers 4–5 unless you know your target companies specifically test these topics.
