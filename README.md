@@ -119,29 +119,38 @@
 
 ---
 
-## 03. Binary Search
-
+# 03. Binary Search — Complete Merged List 📋
+ 
 ### Classic Binary Search
 - [Binary Search](https://leetcode.com/problems/binary-search/)
 - [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
-
+- [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) — LC 702
+- [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) — LC 1533 (interactive)
+- [Arranging Coins](https://leetcode.com/problems/arranging-coins/) — LC 441
+- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) — LC 1539
 ### Lower / Upper Bound
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-
+- [Find Right Interval](https://leetcode.com/problems/find-right-interval/) — LC 436
+- [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) — LC 658
+- [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) — LC 1200
+- [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) — LC 1351
 ### First / Last Occurrence
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [H-Index II](https://leetcode.com/problems/h-index-ii/)
-
+### Peak-Finding (Binary Search sub-pattern)
+- [Find Peak Element](https://leetcode.com/problems/find-peak-element/) — LC 162
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) — LC 852
+- [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) — LC 1901 (2D version, less commonly drilled)
 ### Rotated Array
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) — LC 540
 ### Binary Search on Answer
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
@@ -151,6 +160,18 @@
 - [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
 - [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
 - [Allocate Books / Painter's Partition (GFG classic, similar to Split Array Largest Sum)](https://leetcode.com/problems/split-array-largest-sum/)
+- [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) — LC 1283
+- [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) — LC 1870
+- [Heaters](https://leetcode.com/problems/heaters/) — LC 475
+- [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) — LC 1231 (same family as Split Array Largest Sum, harder)
+- [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) — LC 774 (Premium)
+### Kth-Element via Binary Search (often-missed sub-pattern)
+- [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) — LC 719
+- [Find K-th Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) — LC 668
+### Binary Search in Disguise (less obvious applications)
+- [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) — LC 528 (prefix sum + binary search)
+- [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) — LC 981
+- [Snapshot Array](https://leetcode.com/problems/snapshot-array/) — LC 1146
 
 ---
 
