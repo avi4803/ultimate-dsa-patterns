@@ -119,7 +119,7 @@
 
 ---
 
-# 03. Binary Search — Complete Merged List 📋
+# 03. Binary Search
  
 ### Classic Binary Search
 - [Binary Search](https://leetcode.com/problems/binary-search/)
