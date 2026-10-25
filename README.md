@@ -430,7 +430,7 @@
 - [Subsets](https://leetcode.com/problems/subsets/)
 - [Subsets II](https://leetcode.com/problems/subsets-ii/)
 
-## Take / Not Take
+### Take / Not Take
 
 - [Subsets](https://leetcode.com/problems/subsets/)
 - [Subsets II](https://leetcode.com/problems/subsets-ii/)
@@ -448,7 +448,7 @@
 - [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 - [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/)
 
-## Backtracking
+### Backtracking
 
 - [Combinations](https://leetcode.com/problems/combinations/)
 - [Combination Sum](https://leetcode.com/problems/combination-sum/)
