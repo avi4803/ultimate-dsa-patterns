@@ -426,7 +426,7 @@
 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
-### Subsets
+### Backtracking
 - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
@@ -442,7 +442,7 @@
 - [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/)
 - [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
 
-### Backtracking
+### Subsets
 - [Subsets](https://leetcode.com/problems/subsets/)
 - [Subsets II](https://leetcode.com/problems/subsets-ii/)
 
