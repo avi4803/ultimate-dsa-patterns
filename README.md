@@ -427,6 +427,22 @@
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 
 ### Subsets
+- [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+- [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [Target Sum](https://leetcode.com/problems/target-sum/)
+- [House Robber](https://leetcode.com/problems/house-robber/)
+- [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+- [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+- [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
+- [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)
+- [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets/)
+- [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)
+- [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)
+- [Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/)
+- [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/)
+
+### Backtracking
 - [Subsets](https://leetcode.com/problems/subsets/)
 - [Subsets II](https://leetcode.com/problems/subsets-ii/)
 
